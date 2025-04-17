@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarkItDown/static/css/main.d1f5f818.css",
+    "main.js": "/MarkItDown/static/js/main.3e570133.js",
+    "index.html": "/MarkItDown/index.html",
+    "main.d1f5f818.css.map": "/MarkItDown/static/css/main.d1f5f818.css.map",
+    "main.3e570133.js.map": "/MarkItDown/static/js/main.3e570133.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f5f818.css",
+    "static/js/main.3e570133.js"
+  ]
+}
