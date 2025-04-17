@@ -2,7 +2,7 @@
   "name": "markitdown",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Tharunya07.github.io/MarkItDown",
+  "homepage": "https://tharunya07.github.io/MarkItDown/",
   "dependencies": {
     "file-saver": "^2.0.5",
     "marked": "^15.0.8",
